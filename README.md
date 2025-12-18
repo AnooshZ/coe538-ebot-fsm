@@ -60,4 +60,4 @@ ebot.asm # Main HCS12 assembly firmware
 
 ## Demo
 Demo video available on LinkedIn:
-
+https://www.linkedin.com/posts/anoosh-zaidi_embeddedsystems-microcontrollers-hcs12-activity-7407535966627872768-OoVH?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEA9uoABcTK0-TmB7S85hs4lwIK8zz9O5yQ
